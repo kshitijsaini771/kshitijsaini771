@@ -1,5 +1,11 @@
+
+<div align="center">
+  
+![MasterHead](https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/refs/heads/main/eye-12452.gif)
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!%20Myself%20Kshitij&20Saini&height=100&section=header"/>
 </p>
 
 <h1 align="center">
