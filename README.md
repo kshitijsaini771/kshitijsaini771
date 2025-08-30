@@ -49,16 +49,8 @@
 
 ## My Contributions
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kshitijsaini771/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kshitijsaini771/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/kshitijsaini771/snk/output/github-contribution-grid-snake.svg"
-  />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshitijsaini771/kshitijsaini771/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/kshitijsaini771/kshitijsaini771/output/github-snake.svg" />
+</picture>
 </picture>
